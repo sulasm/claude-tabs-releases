@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "1.5",
+  "versionCode": 7,
+  "versionName": "1.6",
   "apk": "https://raw.githubusercontent.com/sulasm/claude-tabs-releases/main/ClaudeTabs.apk",
-  "notes": "دعم التحديث التلقائي داخل التطبيق"
+  "notes": "إصلاح تمرير النص والبطء، تثبيت RTL، والتبويبات على اليمين"
 }
