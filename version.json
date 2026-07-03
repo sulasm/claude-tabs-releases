@@ -1,6 +1,6 @@
 {
-  "versionCode": 9,
-  "versionName": "1.8",
+  "versionCode": 10,
+  "versionName": "1.9",
   "apk": "https://raw.githubusercontent.com/sulasm/claude-tabs-releases/main/ClaudeTabs.apk",
-  "notes": "جعل واجهة claude.ai نفسها RTL (الشريط الجانبي على اليمين) + تحميل كسول للتبويبات لتسريع البدء"
+  "notes": "نقل الشريط الجانبي لمحادثات claude.ai إلى اليمين (عكس تخطيط الموقع)"
 }
