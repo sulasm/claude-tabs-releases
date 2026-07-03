@@ -1,6 +1,6 @@
 {
-  "versionCode": 11,
-  "versionName": "2.0",
+  "versionCode": 12,
+  "versionName": "2.1",
   "apk": "https://raw.githubusercontent.com/sulasm/claude-tabs-releases/main/ClaudeTabs.apk",
-  "notes": "نقل درج قائمة المحادثات في claude.ai ليفتح من اليمين"
+  "notes": "إصلاح آلية التحديث التلقائي (فحص عند كل فتح) + درج المحادثات يفتح من اليمين"
 }
