@@ -1,6 +1,6 @@
 {
-  "versionCode": 17,
-  "versionName": "2.6",
+  "versionCode": 18,
+  "versionName": "2.7",
   "apk": "https://raw.githubusercontent.com/sulasm/claude-tabs-releases/main/ClaudeTabs.apk",
-  "notes": "إرجاع الشريط الجانبي لوضعه الأصلي (القائمة تعمل) وإزالة زر التشخيص"
+  "notes": "وضع سطح المكتب: شريط جانبي ثابت للمحادثات على اليمين"
 }
