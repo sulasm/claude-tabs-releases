@@ -1,6 +1,6 @@
 {
-  "versionCode": 21,
-  "versionName": "3.0",
+  "versionCode": 22,
+  "versionName": "3.1",
   "apk": "https://raw.githubusercontent.com/sulasm/claude-tabs-releases/main/ClaudeTabs.apk",
-  "notes": "قائمة المحادثات من اليمين: عكس طبقتي الشريط وزر الفتح معًا (بناءً على فهم بنية الموقع)"
+  "notes": "إصلاح زر فتح القائمة: ربطه بالحافة اليمنى للشريط (كان يفيض خارج الشاشة)"
 }
