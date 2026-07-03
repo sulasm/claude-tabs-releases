@@ -1,6 +1,6 @@
 {
-  "versionCode": 24,
-  "versionName": "3.3",
+  "versionCode": 25,
+  "versionName": "3.4",
   "apk": "https://raw.githubusercontent.com/sulasm/claude-tabs-releases/main/ClaudeTabs.apk",
-  "notes": "إخفاء زر الوضع الخفي بجافاسكربت + تصحيح ذاتي لموضع زر فتح القائمة (قياس فعلي)"
+  "notes": "إصلاح الشاشة الداخلية: تفعيل اللمس داخل قائمة المحادثات (pointer-events)"
 }
