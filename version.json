@@ -1,6 +1,6 @@
 {
-  "versionCode": 22,
-  "versionName": "3.1",
+  "versionCode": 23,
+  "versionName": "3.2",
   "apk": "https://raw.githubusercontent.com/sulasm/claude-tabs-releases/main/ClaudeTabs.apk",
-  "notes": "إصلاح زر فتح القائمة: ربطه بالحافة اليمنى للشريط (كان يفيض خارج الشاشة)"
+  "notes": "إخفاء زر الوضع الخفي (كان يغطي نصف زر فتح القائمة)"
 }
