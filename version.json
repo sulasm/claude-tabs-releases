@@ -1,6 +1,6 @@
 {
-  "versionCode": 25,
-  "versionName": "3.4",
+  "versionCode": 26,
+  "versionName": "3.5",
   "apk": "https://raw.githubusercontent.com/sulasm/claude-tabs-releases/main/ClaudeTabs.apk",
-  "notes": "إصلاح الشاشة الداخلية: تفعيل اللمس داخل قائمة المحادثات (pointer-events)"
+  "notes": "رفع طبقة قائمة المحادثات فوق أي عنصر حاجب (إصلاح الشاشة الداخلية) + تشخيص فحص اللمس"
 }
