@@ -1,6 +1,6 @@
 {
-  "versionCode": 15,
-  "versionName": "2.4",
+  "versionCode": 16,
+  "versionName": "2.5",
   "apk": "https://raw.githubusercontent.com/sulasm/claude-tabs-releases/main/ClaudeTabs.apk",
-  "notes": "تشخيص موسّع لالتقاط زر فتح القائمة عند الحافة"
+  "notes": "إصلاح: زر فتح القائمة عاد ظاهرًا (إزالة قلب الشريط العلوي) والدرج يفتح من اليمين"
 }
