@@ -1,6 +1,6 @@
 {
-  "versionCode": 18,
-  "versionName": "2.7",
+  "versionCode": 19,
+  "versionName": "2.8",
   "apk": "https://raw.githubusercontent.com/sulasm/claude-tabs-releases/main/ClaudeTabs.apk",
-  "notes": "وضع سطح المكتب: شريط جانبي ثابت للمحادثات على اليمين"
+  "notes": "وضع سطح المكتب + RTL: الشريط الجانبي على اليمين"
 }
