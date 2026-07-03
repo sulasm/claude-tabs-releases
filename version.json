@@ -1,6 +1,6 @@
 {
-  "versionCode": 23,
-  "versionName": "3.2",
+  "versionCode": 24,
+  "versionName": "3.3",
   "apk": "https://raw.githubusercontent.com/sulasm/claude-tabs-releases/main/ClaudeTabs.apk",
-  "notes": "إخفاء زر الوضع الخفي (كان يغطي نصف زر فتح القائمة)"
+  "notes": "إخفاء زر الوضع الخفي بجافاسكربت + تصحيح ذاتي لموضع زر فتح القائمة (قياس فعلي)"
 }
