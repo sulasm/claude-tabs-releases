@@ -1,6 +1,6 @@
 {
-  "versionCode": 13,
-  "versionName": "2.2",
+  "versionCode": 14,
+  "versionName": "2.3",
   "apk": "https://raw.githubusercontent.com/sulasm/claude-tabs-releases/main/ClaudeTabs.apk",
-  "notes": "أداة تشخيص مؤقتة (زر 🔍) لالتقاط بنية درج المحادثات"
+  "notes": "حل جذري: درج المحادثات (nav.left-0) ينتقل ويفتح من اليمين"
 }
