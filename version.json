@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "1.7",
+  "versionCode": 9,
+  "versionName": "1.8",
   "apk": "https://raw.githubusercontent.com/sulasm/claude-tabs-releases/main/ClaudeTabs.apk",
-  "notes": "تسريع كبير (إيقاف تبويبات الخلفية)، فرض RTL على مستوى التطبيق، والتبويبات على اليمين"
+  "notes": "جعل واجهة claude.ai نفسها RTL (الشريط الجانبي على اليمين) + تحميل كسول للتبويبات لتسريع البدء"
 }
