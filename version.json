@@ -1,6 +1,6 @@
 {
-  "versionCode": 39,
-  "versionName": "4.8",
+  "versionCode": 40,
+  "versionName": "4.9",
   "apk": "https://raw.githubusercontent.com/sulasm/claude-tabs-releases/main/ClaudeTabs.apk",
-  "notes": "زر فتح المحادثات (☰) ظاهر دائمًا في الأسفل؛ ⋮ و + و × تظهر بالضغط المطول فقط"
+  "notes": "☰ فتح المحادثات و + تبويب جديد ظاهران دائمًا؛ إزالة زر ⋮ وعلامات ×؛ إغلاق التبويب بالضغط المطول عليه مباشرة"
 }
