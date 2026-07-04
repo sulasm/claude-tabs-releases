@@ -1,6 +1,6 @@
 {
-  "versionCode": 32,
-  "versionName": "4.1",
+  "versionCode": 33,
+  "versionName": "4.2",
   "apk": "https://raw.githubusercontent.com/sulasm/claude-tabs-releases/main/ClaudeTabs.apk",
-  "notes": "إصلاح تمرير قائمة المحادثات (تعارض السحب-للتحديث) + محاولة إغلاق القائمة بعد اختيار محادثة"
+  "notes": "اتجاه تلقائي للنص العربي في الرسائل وحقل الكتابة (نفس نهج إضافات RTL)"
 }
