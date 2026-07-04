@@ -1,6 +1,6 @@
 {
-  "versionCode": 35,
-  "versionName": "4.4",
+  "versionCode": 36,
+  "versionName": "4.5",
   "apk": "https://raw.githubusercontent.com/sulasm/claude-tabs-releases/main/ClaudeTabs.apk",
-  "notes": "إخفاء سطر التنبيه (مطابقة أوسع) + زر الرجوع يعيدك للمحادثات من قسم Code"
+  "notes": "إصلاح عاجل: استعادة حقل الكتابة (كان يختفي مع سطر التنبيه)"
 }
