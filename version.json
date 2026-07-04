@@ -1,6 +1,6 @@
 {
-  "versionCode": 26,
-  "versionName": "3.5",
+  "versionCode": 27,
+  "versionName": "3.6",
   "apk": "https://raw.githubusercontent.com/sulasm/claude-tabs-releases/main/ClaudeTabs.apk",
-  "notes": "رفع طبقة قائمة المحادثات فوق أي عنصر حاجب (إصلاح الشاشة الداخلية) + تشخيص فحص اللمس"
+  "notes": "إصلاح الشاشة الداخلية: عكس الطبقة الشفافة الحاجبة (كانت تبتلع اللمس فوق القائمة)"
 }
