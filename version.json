@@ -1,6 +1,6 @@
 {
-  "versionCode": 29,
-  "versionName": "3.8",
+  "versionCode": 30,
+  "versionName": "3.9",
   "apk": "https://raw.githubusercontent.com/sulasm/claude-tabs-releases/main/ClaudeTabs.apk",
-  "notes": "تراجع عن تصحيحات 3.7 (استعادة الشاشة الخارجية) + تشخيص موسّع"
+  "notes": "تشخيص هندسي يجد القائمة بمقاسها لا باسمها (يبدو أن claude.ai غيّر بنية الواجهة)"
 }
