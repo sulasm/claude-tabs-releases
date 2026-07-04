@@ -1,6 +1,6 @@
 {
-  "versionCode": 28,
-  "versionName": "3.7",
+  "versionCode": 29,
+  "versionName": "3.8",
   "apk": "https://raw.githubusercontent.com/sulasm/claude-tabs-releases/main/ClaudeTabs.apk",
-  "notes": "تثبيت القائمة على اليمين بالقياس الذاتي + استعادة الإغلاق بالنقر خارجها"
+  "notes": "تراجع عن تصحيحات 3.7 (استعادة الشاشة الخارجية) + تشخيص موسّع"
 }
