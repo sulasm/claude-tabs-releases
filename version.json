@@ -1,6 +1,6 @@
 {
-  "versionCode": 31,
-  "versionName": "4.0",
+  "versionCode": 32,
+  "versionName": "4.1",
   "apk": "https://raw.githubusercontent.com/sulasm/claude-tabs-releases/main/ClaudeTabs.apk",
-  "notes": "إصدار نظيف مستقر: إزالة أكواد نقل القائمة وأدوات التشخيص؛ سلوك claude.ai الأصلي على الشاشتين"
+  "notes": "إصلاح تمرير قائمة المحادثات (تعارض السحب-للتحديث) + محاولة إغلاق القائمة بعد اختيار محادثة"
 }
