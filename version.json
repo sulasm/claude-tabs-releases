@@ -1,6 +1,6 @@
 {
-  "versionCode": 33,
-  "versionName": "4.2",
+  "versionCode": 34,
+  "versionName": "4.3",
   "apk": "https://raw.githubusercontent.com/sulasm/claude-tabs-releases/main/ClaudeTabs.apk",
-  "notes": "اتجاه تلقائي للنص العربي في الرسائل وحقل الكتابة (نفس نهج إضافات RTL)"
+  "notes": "منع ظهور لوحة المفاتيح تلقائيًا عند فتح محادثة + إخفاء سطر التنبيه أسفل الشاشة"
 }
