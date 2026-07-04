@@ -1,6 +1,6 @@
 {
-  "versionCode": 27,
-  "versionName": "3.6",
+  "versionCode": 28,
+  "versionName": "3.7",
   "apk": "https://raw.githubusercontent.com/sulasm/claude-tabs-releases/main/ClaudeTabs.apk",
-  "notes": "إصلاح الشاشة الداخلية: عكس الطبقة الشفافة الحاجبة (كانت تبتلع اللمس فوق القائمة)"
+  "notes": "تثبيت القائمة على اليمين بالقياس الذاتي + استعادة الإغلاق بالنقر خارجها"
 }
