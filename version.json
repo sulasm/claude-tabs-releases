@@ -1,6 +1,6 @@
 {
-  "versionCode": 43,
-  "versionName": "5.2",
+  "versionCode": 44,
+  "versionName": "5.3",
   "apk": "https://raw.githubusercontent.com/sulasm/claude-tabs-releases/main/ClaudeTabs.apk",
-  "notes": "زر جديد </> في الشريط السفلي يفتح جلسات Claude Code (claude.ai/code) في تبويب جديد مباشرة"
+  "notes": "إصلاح إرفاق الملفات في المحادثة (منتقي ملفات جديد يدعم اختيار عدة ملفات)؛ زر ☰ أصبح يفتح القائمة الجانبية ويغلقها"
 }
