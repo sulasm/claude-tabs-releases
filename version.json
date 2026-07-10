@@ -1,6 +1,6 @@
 {
-  "versionCode": 45,
-  "versionName": "5.4",
+  "versionCode": 46,
+  "versionName": "5.5",
   "apk": "https://raw.githubusercontent.com/sulasm/claude-tabs-releases/main/ClaudeTabs.apk",
-  "notes": "واجهة الجوال دائمًا: على الشاشة الداخلية العريضة يعرض الموقع الآن تخطيط الجوال (قائمة منزلقة تختفي تلقائيًا) بدل التخطيط المكتبي بالقائمة المثبتة؛ يتبدل تلقائيًا عند الطي والفتح"
+  "notes": "قائمة Claude Code تُطوى تلقائيًا عند فتح الصفحة وبعد اختيار جلسة منها"
 }
