@@ -1,6 +1,6 @@
 {
-  "versionCode": 46,
-  "versionName": "5.5",
+  "versionCode": 49,
+  "versionName": "5.8",
   "apk": "https://raw.githubusercontent.com/sulasm/claude-tabs-releases/main/ClaudeTabs.apk",
-  "notes": "قائمة Claude Code تُطوى تلقائيًا عند فتح الصفحة وبعد اختيار جلسة منها"
+  "notes": "تحسين اتجاه النص العربي (محاذاة يمين وتغطية أوسع)، إخفاء لوحة المفاتيح تلقائيًا بعد الإرسال، وعرض واجهة الحاسوب على الشاشة الداخلية للأجهزة القابلة للطي."
 }
