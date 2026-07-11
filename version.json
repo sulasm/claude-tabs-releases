@@ -1,6 +1,6 @@
 {
-  "versionCode": 50,
-  "versionName": "5.9",
+  "versionCode": 51,
+  "versionName": "6.0",
   "apk": "https://raw.githubusercontent.com/sulasm/claude-tabs-releases/main/ClaudeTabs.apk",
-  "notes": "إصلاح اتجاه الجداول العربية (ترتيب الأعمدة من اليمين إلى اليسار)."
+  "notes": "تفعيل الإشعارات (إصلاح زر الإشعارات المظلّل) وربط إشعارات claude.ai بإشعارات أندرويد."
 }
