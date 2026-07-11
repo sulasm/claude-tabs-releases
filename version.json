@@ -1,6 +1,6 @@
 {
-  "versionCode": 49,
-  "versionName": "5.8",
+  "versionCode": 50,
+  "versionName": "5.9",
   "apk": "https://raw.githubusercontent.com/sulasm/claude-tabs-releases/main/ClaudeTabs.apk",
-  "notes": "تحسين اتجاه النص العربي (محاذاة يمين وتغطية أوسع)، إخفاء لوحة المفاتيح تلقائيًا بعد الإرسال، وعرض واجهة الحاسوب على الشاشة الداخلية للأجهزة القابلة للطي."
+  "notes": "إصلاح اتجاه الجداول العربية (ترتيب الأعمدة من اليمين إلى اليسار)."
 }
