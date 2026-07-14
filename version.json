@@ -1,6 +1,6 @@
 {
-  "versionCode": 51,
-  "versionName": "6.0",
+  "versionCode": 52,
+  "versionName": "6.1",
   "apk": "https://raw.githubusercontent.com/sulasm/claude-tabs-releases/main/ClaudeTabs.apk",
-  "notes": "تفعيل الإشعارات (إصلاح زر الإشعارات المظلّل) وربط إشعارات claude.ai بإشعارات أندرويد."
+  "notes": "تقليل حساسية «سحب للتحديث»: لن تتحدّث الصفحة إلا بسحبة متعمّدة، لا بمجرّد لمسها."
 }
