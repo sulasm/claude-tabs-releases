@@ -1,6 +1,6 @@
 {
-  "versionCode": 52,
-  "versionName": "6.1",
+  "versionCode": 53,
+  "versionName": "6.2",
   "apk": "https://raw.githubusercontent.com/sulasm/claude-tabs-releases/main/ClaudeTabs.apk",
-  "notes": "تقليل حساسية «سحب للتحديث»: لن تتحدّث الصفحة إلا بسحبة متعمّدة، لا بمجرّد لمسها."
+  "notes": "إصلاح الإشعارات: لا تظهر إشعارات أثناء استخدام التطبيق، وتُزال المعلّقة عند فتحه، وتوقّف تكرار تنبيه «لا يوجد اتصال»."
 }
