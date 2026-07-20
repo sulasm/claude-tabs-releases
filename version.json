@@ -1,6 +1,6 @@
 {
-  "versionCode": 53,
-  "versionName": "6.2",
+  "versionCode": 54,
+  "versionName": "6.3",
   "apk": "https://raw.githubusercontent.com/sulasm/claude-tabs-releases/main/ClaudeTabs.apk",
-  "notes": "إصلاح الإشعارات: لا تظهر إشعارات أثناء استخدام التطبيق، وتُزال المعلّقة عند فتحه، وتوقّف تكرار تنبيه «لا يوجد اتصال»."
+  "notes": "إصلاح تعذّر تحديد النص في حقل الكتابة: الآن يظهر شريط التحديد/النسخ ويمكن تحديد النص بالكامل."
 }
