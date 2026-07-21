@@ -1,6 +1,6 @@
 {
-  "versionCode": 54,
-  "versionName": "6.3",
+  "versionCode": 55,
+  "versionName": "6.4",
   "apk": "https://raw.githubusercontent.com/sulasm/claude-tabs-releases/main/ClaudeTabs.apk",
-  "notes": "إصلاح تعذّر تحديد النص في حقل الكتابة: الآن يظهر شريط التحديد/النسخ ويمكن تحديد النص بالكامل."
+  "notes": "تحسين التعامل مع ضعف الاتصال: عند تعذّر فتح الصفحة تظهر رسالة واضحة بزر «إعادة المحاولة» بدل الشاشة الفارغة."
 }
