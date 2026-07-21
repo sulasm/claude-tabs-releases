@@ -1,6 +1,6 @@
 {
-  "versionCode": 55,
-  "versionName": "6.4",
+  "versionCode": 56,
+  "versionName": "6.5",
   "apk": "https://raw.githubusercontent.com/sulasm/claude-tabs-releases/main/ClaudeTabs.apk",
-  "notes": "تحسين التعامل مع ضعف الاتصال: عند تعذّر فتح الصفحة تظهر رسالة واضحة بزر «إعادة المحاولة» بدل الشاشة الفارغة."
+  "notes": "فتح فوري للتبويب الجديد: يُحمّل تبويب مسبقًا في الخلفية فيظهر فورًا عند الضغط على + بدل انتظار التحميل."
 }
