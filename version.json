@@ -1,6 +1,6 @@
 {
-  "versionCode": 72,
-  "versionName": "6.13.2",
+  "versionCode": 73,
+  "versionName": "6.13.3",
   "apk": "https://raw.githubusercontent.com/sulasm/claude-tabs-releases/main/ClaudeTabs.apk",
-  "notes": "إخفاء زر المشاركة (Share) في صفحات Claude Code أيضاً، حيث كان يظهر لأنه مبنيّ هناك بشكل مختلف عنه في المحادثات العادية."
+  "notes": "القائمة الجانبية للمحادثات تُطوى تلقائياً بعد اختيار محادثة منها وعند اللمس خارجها، حتى على الشاشة العريضة. والتبويب الجديد يبدأ بحقل كتابة فارغ بدل أن يظهر فيه نص أُرسل سابقاً."
 }
